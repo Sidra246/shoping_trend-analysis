@@ -1,1 +1,2 @@
 # shoping_trend-analysis
+This dashboard provides insights into consumer behavior and buying patterns. Understanding customer preferences and trends is crucial for businesses to tailor their products, marketing strategies, and overall customer experiences. This dashboard focuses on a variety of customer attributes such as age, gender, purchase history, preferred payment methods, and purchase frequency.
